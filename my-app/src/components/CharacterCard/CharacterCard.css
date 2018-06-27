@@ -1,0 +1,20 @@
+img {
+  display: block;
+  margin-left: auto;
+  width: 102%;
+  border: 10px solid #5133a4;
+  border-radius: 5px;
+  -moz-box-shadow: 3px 3px 3px rgb(134, 134, 134);
+  -webkit-box-shadow: 3px 3px 3px rgb(134, 134, 134);
+  box-shadow: 3px 3px 3px rgb(134, 134, 134);
+}
+.card {
+  margin: 8px;
+}
+
+img:hover {
+  border: 10px solid slateblue;
+  -moz-box-shadow: 0 0 0 white;
+  -webkit-box-shadow: 0 0 0 white;
+  box-shadow: 0 0 0 white;
+}

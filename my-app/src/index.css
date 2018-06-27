@@ -1,5 +1,4 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+.kitty-card {
+  width: 20%;
+  margin: 10px;
 }
